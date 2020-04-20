@@ -1,2 +1,2 @@
 # Study Schema
-![Study Schema](images/Figure1.tif)
+![Study Schema](images/figure1.png)
